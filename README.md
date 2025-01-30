@@ -1,5 +1,3 @@
-Home Loan Analysis Dashboard (Power BI)
-
 Overview
 
 This project features a fully interactive Power BI dashboard built using real government CFPB data. It aims to answer key questions regarding home loan data, such as:
